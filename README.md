@@ -6,9 +6,9 @@
 A upgrade/clean up of a game prototype done during and for Helsinki Pride Game Jam 2020, the first game jam I worked as a programmer at.
 
 ### Credits
-Team had 4 people.
+Team had 4 people: Al, Cicide, Salli (Aviala) and Glace (me).
 - Initial Idea - Al, Cicide
-- Programming & Unity - Glace (me)
+- Programming & Unity - Glace
 - Artwork - Al, Cicide, Salli (Aviala)
 - Story & Narrative - Al, Cicide, Glace (me), Salli (Aviala)
 - 3d Assets - Glace (me), [Kenney](https://www.kenney.nl/assets)
