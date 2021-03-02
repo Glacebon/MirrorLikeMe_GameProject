@@ -3,7 +3,7 @@
 
 ![gif](https://user-images.githubusercontent.com/47727027/109578244-7ef27480-7aff-11eb-878d-4b1b3141651d.gif)
 
-A upgrade/clean up of a game prototype done during and for Helsinki Pride Game Jam 2020, the first game jam I worked as a programmer at.
+A slowly progressing upgrade/clean up of a game prototype done during and for Helsinki Pride Game Jam 2020, the first game jam I worked as a programmer at.
 
 Original Helsinki Pride Game Jam 2020 itch.io submission: [itch.io link](https://itch.io/jam/pride-game-jam-hki-2020/rate/756920)
 
