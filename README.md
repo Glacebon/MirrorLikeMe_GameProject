@@ -5,6 +5,8 @@
 
 A upgrade/clean up of a game prototype done during and for Helsinki Pride Game Jam 2020, the first game jam I worked as a programmer at.
 
+Original Helsinki Pride Game Jam 2020 itch.io submission: [itch.io link](https://itch.io/jam/pride-game-jam-hki-2020/rate/756920)
+
 ### Credits
 Team had 4 people: Al, Cicide, Salli (Aviala) and Glace (me).
 - Initial Idea - Al, Cicide
@@ -12,5 +14,3 @@ Team had 4 people: Al, Cicide, Salli (Aviala) and Glace (me).
 - Artwork - Al, Cicide, Salli (Aviala)
 - Story & Narrative - Al, Cicide, Glace (me), Salli (Aviala)
 - 3d Assets - Glace (me), [Kenney](https://www.kenney.nl/assets)
-
-Original Helsinki Pride Game Jam 2020 itch.io submission: [itch.io link](https://itch.io/jam/pride-game-jam-hki-2020/rate/756920)
