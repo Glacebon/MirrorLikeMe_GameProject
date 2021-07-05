@@ -1,4 +1,4 @@
-### Game Jam
+### Pride Game Jam 2020
 # Mirror Like Me
 
 ![gif](https://user-images.githubusercontent.com/47727027/109578244-7ef27480-7aff-11eb-878d-4b1b3141651d.gif)
